@@ -1,5 +1,8 @@
 # PHPOrangeData
 PHP integration for OrangeData service
+
+Проверено на PHP 7, с незначительными правками допустима работа не более ранних версиях
+
 Для начала работы необходимо подключить файл класса, например так:
 
 include_once 'orangedata_client.php';
